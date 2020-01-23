@@ -73,36 +73,36 @@ export default () => (
       <FlexWrap>
         <FooterTitle>
           <img style={TombstoneStyle} src={Tombstone} alt="Tombstone" />
-          <Title>Killed by Google</Title>
+          <Title>ServiceNow Killed</Title>
         </FooterTitle>
         <div>
           <p>
-            Killed by Google is the Google graveyard; a free and open source
-            list of discontinued Google services, products, devices, and apps.
+            ServiceNow Killed is the ServiceNow graveyard; a free and open source
+            list of discontinued ServiceNow services, products, and apps.
             We aim to be a source of factual information about the history
-            surrounding Google&apos;s dead projects.
+            surrounding ServiceNow&apos;s dead projects.
           </p>
           <p>
             <a
-              href="https://github.com/codyogden/killedbygoogle/graphs/contributors"
+              href="https://github.com/jacebenson/snkilled/graphs/contributors"
               target="_blank"
               rel="noopener noreferrer"
             >
               Contributors
             </a>
             &nbsp;from around the world help compile, research, and maintain the
-            information about dying and dead Google products. You can join the
+            information about dying and dead ServiceNow products. You can join the
             discussion on&nbsp;
-            <a href="https://github.com/codyogden/killedbygoogle">GitHub</a>, or
+            <a href="https://github.com/jacebenson/snkilled">GitHub</a>, or
             follow us on&nbsp;
-            <a href="https://twitter.com/killedbygoogle">Twitter</a>. A project
+            <a href="https://twitter.com/jacebenson">Twitter</a>. A project
             by&nbsp;
             <a
-              href="https://codyogden.com"
+              href="https://jace.pro"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Cody Ogden
+              Jace Benson
             </a>
             .
           </p>
@@ -110,25 +110,25 @@ export default () => (
             Press inquiries and other assorted death threats?
             <br />
             Throw a&nbsp;
-            <a href="mailto:knife@killedbygoogle.com">
-              knife@killedbygoogle.com
+            <a href="mailto:jacebenson@gmail.com">
+              jacebenson@gmail.com
             </a>
             .
           </p>
         </div>
         <CopyNotice>
-          <a href="https://github.com/codyogden/killedbygoogle/blob/master/LICENSE">
-            &copy; 2019 Cody Ogden.
+          <a href="https://github.com/jacebenson/snkilled/blob/master/LICENSE">
+            &copy; 2020 Jace Benson.
           </a>
         </CopyNotice>
         <SocialWrapper>
           <SocialLink
-            url="https://github.com/codyogden/killedbygoogle"
+            url="https://github.com/jacebenson/snkilled"
             altText="GitHub"
             imgSrc={GITHUB}
           />
           <SocialLink
-            url="https://twitter.com/killedbygoogle"
+            url="https://twitter.com/snkilled"
             altText="Twitter"
             imgSrc={TWITTER}
           />
