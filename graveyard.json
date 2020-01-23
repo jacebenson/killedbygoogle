@@ -1,6 +1,6 @@
 [
   {
-    "dateClose": "2020-02-30",
+    "dateClose": "2020-02-20",
     "dateOpen": "2004-01-01",
     "description": "Help the Help Desk is a small web application that downloads and runs locally, using a WMI login script to gather information such as serial number, computer name, disk configuration, network configuration, installed software, memory, and much more. Users have the option of using two types of SOAP authentication for running the Help the Help Desk script.",
     "link": "https://docs.servicenow.com/bundle/newyork-servicenow-platform/page/product/configuration-management/concept/c_HelpTheHelpDesk.html",
@@ -8,7 +8,7 @@
     "type": "app"
   },
   {
-    "dateClose": "2020-02-30",
+    "dateClose": "2020-02-20",
     "dateOpen": "2017-01-01",
     "description": "The ServiceNow® Enterprise Release Management application helps you to efficiently plan and manage enterprise releases, product releases, and deployment process.",
     "link": "https://docs.servicenow.com/bundle/newyork-it-business-management/page/product/enterprise-release-management/concept/enterprise-release-management-concepts.html",
@@ -16,7 +16,7 @@
     "type": "app"
   },
   {
-    "dateClose": "2020-02-30",
+    "dateClose": "2020-02-20",
     "dateOpen": "2017-01-01",
     "description": "The Facilities Service Management application lets users request changes to the operation and maintenance of your facilities. The facilities staff can then track these requests and make the necessary changes. ",
     "link": "https://docs.servicenow.com/bundle/newyork-service-management-for-the-enterprise/page/product/facilities-service-management/concept/c_FacilitiesServiceManagement.html#c_FacilitiesServiceManagement",
