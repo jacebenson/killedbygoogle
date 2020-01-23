@@ -103,7 +103,7 @@ const Title = styled.h4`
   }
 `;
 
-export default () => (
+/*export default () => (
   <Press>
     <Title>As seen on</Title>
     <Container>
@@ -122,3 +122,4 @@ export default () => (
     </Container>
   </Press>
 );
+*/
