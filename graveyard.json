@@ -37,7 +37,7 @@
     "description": "The Content Management System (CMS) is a ServiceNow application that enables users to create a custom interface for the ServiceNow platform and ServiceNow applications.",
     "link": "https://docs.servicenow.com/bundle/newyork-servicenow-platform/page/administer/content-management/concept/c_ContentManagementSystem.html",
     "name": "Content Management System (CMS)",
-    "type": "service"
+    "type": "app"
   },
   {
     "dateClose": "2013-01-01",
@@ -65,7 +65,7 @@
   },
   {
     "dateClose": "2019-11-17",
-    "dateOpen": "2018-09-18",
+    "dateOpen": "2002-01-01",
     "description": "While legacy, custom processors will continue to be supported, creating new custom processors has been deprecated. Instead, please use the Scripted REST APIs.",
     "link": "https://docs.servicenow.com/bundle/newyork-application-development/page/script/processors/concept/c_Processors.html",
     "name": "Processors",
